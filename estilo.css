@@ -1,0 +1,30 @@
+/* todos os imports tem de ser colocadas no inicio  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+Khitan+Small+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+ 
+
+body {
+    background-color: azure;
+}
+
+.figura {
+    height: 720px;
+    width: 1080px;
+}
+
+/* Classe para configuração de fonte */
+
+.fonte {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30px;
+}
+
+.outrafonte{
+    font-family:"Noto Serif Khitan Small Script";
+    font-size: 50px;
+    color:  rgb(75, 77, 79);
+}
+
+.fontejapa{
+    font-family: "Zain", sans-serif;
+}
